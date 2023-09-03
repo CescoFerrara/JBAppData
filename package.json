@@ -26,5 +26,8 @@
     "nodemon": "^3.0.1",
     "supertest": "^6.3.1",
     "vitest": "^0.34.3"
-  }
+  },
+  "description": "Deploys jbapp-api service",
+  "repository": "https://github.com/CescoFerrara/JBAppData.git",
+  "author": "Francesco Ferrara <fferrar4@jhu.edu>"
 }
