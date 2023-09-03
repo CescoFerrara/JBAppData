@@ -6,5 +6,5 @@ db.connect(process.env.DB_URI);
 const port = process.env.PORT || 3000;
 
 app.listen(port, () => {
-    console.log(`JBApp API at http://localhost:${PORT}/`);
+    console.log(`JBApp API at http://localhost:${port}/`);
 });
